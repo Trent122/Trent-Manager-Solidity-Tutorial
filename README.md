@@ -3,6 +3,10 @@
 
 # TM-Solidity-Tutorial
 
+![images](https://user-images.githubusercontent.com/59753390/137092920-15699363-5df6-4acb-b0f1-5942ce56d07c.png)
+
+```A smart contract is a computer program or a transaction protocol which is intended to automatically execute, control or document legally relevant events and actions according to the terms of a contract or an agreement```
+
 ```Learning Solidity: Chapter 1 Anatomy```
 https://youtu.be/4e067K7xo5A
 
