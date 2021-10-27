@@ -21,3 +21,6 @@ https://youtu.be/EoVDtjZhd44
 
 ```Learning Solidity: Chapter 5 Event logging and Transaction Information```
 https://youtu.be/n6QLcBQLQ8w 
+
+```Solidity CheatSheet```
+https://docs.soliditylang.org/en/v0.8.9/cheatsheet.html 
