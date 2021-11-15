@@ -5,6 +5,9 @@
 
 ![images](https://user-images.githubusercontent.com/59753390/137092920-15699363-5df6-4acb-b0f1-5942ce56d07c.png)
 
+![EthModular](https://user-images.githubusercontent.com/59753390/141847300-a12ca44a-8979-4465-bf91-3ee078169c7b.png)
+
+
 ```A smart contract is a computer program or a transaction protocol which is intended to automatically execute, control or document legally relevant events and actions according to the terms of a contract or an agreement```
 
 ```Learning Solidity: Chapter 1 Anatomy```
